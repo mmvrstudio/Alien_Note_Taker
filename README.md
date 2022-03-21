@@ -1,5 +1,5 @@
 # Mystical_Note_Taker
-    Take Notes with Mariana's Mystical Note Taker made with Expressjs.
+    Take Notes with Mariana's Mystical Note Taker.
     
      Description:
     - Simple Note Taker, to take notes and save them.
