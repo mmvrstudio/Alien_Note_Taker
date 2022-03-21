@@ -1,14 +1,21 @@
 # Mystical_Note_Taker
-Take Notes with Mariana's Mystical Note Taker made with Expressjs.
+    Take Notes with Mariana's Mystical Note Taker made with Expressjs.
 
 Description:
+     Simple Note Taker, to take notes and save them.
 
 
 Instructions:
-- Run npm install.
-- To use the application locally, run node server.js in your Integrated Terminal (ex: VS Studio Code Terminal - right cliick above index html to open it)
--  Open the index.html in the Live server, then paste http://localhost:3000 in your preferred browswer.
--  Use the app and save your notes :)
+    - Run npm install.
+    - To use the application locally, run node server.js in your Integrated Terminal (ex: VS Studio Code Terminal - right cliick above index html to open it)
+    -  Open the index.html in the Live server, then paste http://localhost:3000 in your preferred browswer.
+    -  Use the app and save your notes :)
+
+
+Programming Languages/Libraries used: 
+    JavaScript
+    NodeJS
+    Node Packages: Express
 
 
 
