@@ -1,7 +1,8 @@
 # Mystical_Note_Taker
     Take Notes with Mariana's Mystical Note Taker made with Expressjs.
     
-   Description: - Simple Note Taker, to take notes and save them.
+     Description:
+    - Simple Note Taker, to take notes and save them.
 
 
     Instructions:
@@ -12,13 +13,13 @@
 
 
     Programming Languages/Libraries used: 
-    JavaScript
-    NodeJS
-    Node Packages: Express
+    - JavaScript
+    - NodeJS
+    - Node Packages: Express
 
 
 
-Screen Recording of the process to initialize the App:
+    Screen Recording of the process to initialize the App:
 
 https://user-images.githubusercontent.com/65464431/159365158-88672bcc-37bc-4390-b5ad-cffd9970ae62.mp4
 
