@@ -1,8 +1,10 @@
 # Mystical_Note_Taker
     Take Notes with Mariana's Mystical Note Taker.
     
+    Deployed App (link): https://mysticalnotetaker.herokuapp.com/
+    
      Description:
-    - Simple Note Taker, to take notes and save them.
+    - Simple Note Taker, to take notes and save them. This app was deployed through Heroku using Git.
 
 
     Instructions:
@@ -16,6 +18,7 @@
     - JavaScript
     - NodeJS
     - Node Packages: Express
+    - Heroku
 
 
 
