@@ -1,7 +1,6 @@
 # Mystical_Note_Taker
-    Take Notes with Mariana's Mystical Note Taker.
     
-    Deployed App (link):
+  Deployed App (link):
    https://mysticalnotetaker.herokuapp.com/
     
      Description:
