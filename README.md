@@ -18,6 +18,8 @@
     - JavaScript
     - NodeJS
     - Node Packages: Express
+    
+    Cloud Platform:
     - Heroku
 
 
