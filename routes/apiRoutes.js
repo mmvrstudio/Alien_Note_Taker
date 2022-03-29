@@ -2,10 +2,8 @@
 const fs = require("fs");
 const { v4: uuidv4 } = require('uuid');
 
-// ROUTING
-module.exports = function (app) {
 
-    // API GET Request
+module.exports = function (app) {
     app.get("/api/notes", (request, response) => {
         
         console.log("\n\nExecuting GET notes request");
@@ -17,8 +15,6 @@ module.exports = function (app) {
         response.json(data);
     });
 
-
-    // API POST Request
     app.post("/api/notes", (request, response) => {
 
    
@@ -39,12 +35,9 @@ module.exports = function (app) {
         
         console.log("\nSuccessfully added new note to 'db.json' file!");
 
-    
         response.json(data);
     });
 
-
-  
     app.delete("/api/notes/:id", (request, response) => {
 
        
