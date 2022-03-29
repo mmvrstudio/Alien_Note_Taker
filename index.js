@@ -10,8 +10,6 @@ var getNotes = function() {
     method: "GET"
   });
 };
-
-
 var saveNote = function(note) {
   return $.ajax({
     url: "/api/notes",
@@ -19,7 +17,6 @@ var saveNote = function(note) {
     method: "POST"
   });
 };
-
 
 var deleteNote = function(id) {
   return $.ajax({
@@ -55,7 +52,6 @@ var handleNoteSave = function() {
     renderActiveNote();
 };
 
-
 var handleNoteDelete = function(event) {
   
   event.stopPropagation();
@@ -81,8 +77,6 @@ var handleNewNoteView = function() {
   activeNote = {};
   renderActiveNote();
 };
-
-
 var handleRenderSaveBtn = function() {
   if (!$noteTitle.val().trim() || !$noteText.val().trim()) {
     $saveNoteBtn.hide();
