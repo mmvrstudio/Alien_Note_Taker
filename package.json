@@ -1,7 +1,7 @@
 {
   "name": "Mystical_Note_Taker",
   "version": "1.0.0",
-  "description": "Express.js Note Taker Application",
+  "description": "Application",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
