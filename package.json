@@ -1,5 +1,5 @@
 {
-  "name": "note-taker",
+  "name": "Mystical_Note_Taker",
   "version": "1.0.0",
   "description": "Express.js Note Taker Application",
   "main": "server.js",
@@ -7,8 +7,6 @@
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gauri Khandke",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
     "uuid": "^8.3.0"
