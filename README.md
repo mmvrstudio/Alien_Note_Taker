@@ -25,6 +25,3 @@
 
 
     Screen Recording of the process to initialize the App:
-
-https://user-images.githubusercontent.com/65464431/159365158-88672bcc-37bc-4390-b5ad-cffd9970ae62.mp4
-
