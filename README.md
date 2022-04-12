@@ -4,7 +4,7 @@
    
     
      Description:
-    - Alien Note Taker can simply be used to take notes and save them. This app was deployed through Heroku using Git.
+    - Alien Note Taker can simply be used to take notes and save them. I created this app using html, css and vanilla javascript (yummi!).
 
 
     Instructions:
@@ -16,12 +16,5 @@
 
     Programming Languages/Libraries used: 
     - JavaScript
-    - NodeJS
-    - Node Packages: Express
-    
-    Cloud Platform:
-    - Heroku
 
 
-
-    Screen Recording of the process to initialize the App:
