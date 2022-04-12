@@ -1,7 +1,7 @@
 # Alien_Note_Taker
     
   Deployed App (link):
-   https://mysticalnotetaker.herokuapp.com/
+   
     
      Description:
     - Alien Note Taker can simply be used to take notes and save them. This app was deployed through Heroku using Git.
