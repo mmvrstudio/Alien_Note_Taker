@@ -1,4 +1,4 @@
-# Aliien_Note_Taker
+# Alien_Note_Taker
     
   Deployed App (link):
    https://mysticalnotetaker.herokuapp.com/
