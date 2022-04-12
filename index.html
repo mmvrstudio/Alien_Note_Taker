@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	<meta name="HandheldFriendly" content="true">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Alien Note Taker</title>
+</head>
+<body onload="checkEdits()">
+	<div class="container">
+	<h1>ALIEN NOTE TAKER_</h1>
+	<h2>In space...no one can hear you take notes.</h2>
+	
+
+	<p>Edit and save your notes with the Alien Note Taker.</p>
+
+	<div class="buttons">
+	<button class="save-button" onclick="newElement()">Save your Note_</button>
+	<button class="delete-button" onclick="clearElement()">_Clear your Note</button>
+	</div>
+	
+	<div id="myDiv" class="new-note">
+		<textarea id="myInput" placeholder="Your message for the colonists here"></textarea>
+	</div>
+
+	<div class="notespace">
+	<h3>YOUR SAVED NOTES_</h3>
+	<div id="emptytext"></div>
+	<div id="update"></div>
+	<ul id="saved-notes" contenteditable="true"></ul>
+	<ul id="myNotes" contenteditable="true">
+	</ul>
+	</div>
+	</div>
+
+<script src="main.js"></script>
+
+</body>
+</html>
