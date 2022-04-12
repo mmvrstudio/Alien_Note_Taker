@@ -16,6 +16,8 @@
 
     Programming Languages/Libraries used: 
     - JavaScript
+    - HTML
+    - CSS
 
 
     Screenshot:
