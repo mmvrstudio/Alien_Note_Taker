@@ -18,3 +18,6 @@
     - JavaScript
 
 
+    Screenshot:
+
+![Alien notetaker Screenshot](https://user-images.githubusercontent.com/65464431/162988940-ed49551e-e8f5-4821-a035-65db1eb5559c.png)
